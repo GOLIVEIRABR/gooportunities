@@ -1,7 +1,6 @@
 package schemas
 
 import (
-	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
 
